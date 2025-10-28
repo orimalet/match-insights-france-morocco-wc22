@@ -1,4 +1,4 @@
-# France vs Morocco — Shot Map & Cumulative xG (World Cup 2022)
+# France vs Morocco - Shot Map & Cumulative xG (World Cup 2022)
 
 An exploratory match analysis of France vs Morocco using StatsBomb Open Data. The notebook builds:
 
